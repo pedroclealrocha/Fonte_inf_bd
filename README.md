@@ -4,4 +4,7 @@ https://github.com/pedroclealrocha/Fonte_inf_bd/blob/10d645376ab00f1d03dd737a669
 
 <img width="632" height="419" alt="image" src="https://github.com/user-attachments/assets/ee3fb129-8968-421c-a797-353000872fbf"/>
 
+Atividade análise de dados
+https://github.com/pedroclealrocha/Fonte_inf_bd/blob/main/Atividade_Censo2022_Favelas.xlsx
+
 <img width="773" height="759" alt="image" src="https://github.com/user-attachments/assets/c46f99ab-dc92-4d52-b6d1-e1ebff70ba5e" />
