@@ -8,7 +8,7 @@ Atividade análise de dados abertos por meio de dashboards
 
 
 
-Atividade análise de dados 
+Atividade análise de dados abertos por meio de fórmulas
 https://github.com/pedroclealrocha/Fonte_inf_bd/blob/main/Atividade_Censo2022_Favelas.xlsx
 
 <img width="773" height="759" alt="image" src="https://github.com/user-attachments/assets/c46f99ab-dc92-4d52-b6d1-e1ebff70ba5e" />
