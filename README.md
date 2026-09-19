@@ -16,6 +16,7 @@ https://github.com/pedroclealrocha/Fonte_inf_bd/blob/main/Atividade_Censo2022_Fa
 INTRODUÇÃO AO POWER BI - Atividade análise de dados abertos
 -
 FERRAMENTAS USADAS
-Uso de fórmula DAX
+
+-Uso de fórmula DAX
 
 <img width="1631" height="805" alt="image" src="https://github.com/user-attachments/assets/99bb6159-5df7-4f80-8d32-28c1432d2102" />
