@@ -1,7 +1,8 @@
 # Fonte_inf_bd
 Atividades Da Fatec Disciplina, Fonte de informações e Banco de Dados
+-
 https://github.com/pedroclealrocha/Fonte_inf_bd/blob/10d645376ab00f1d03dd737a66998cad79a5ac76/Atividade%20inf-bancodedados.xlsx
-
+-
 
 ATIVIDADE - análise de dados abertos por meio de dashboards
 -
@@ -12,10 +13,13 @@ ATIVIDADE - análise de dados abertos por meio de dashboards
 ATIVIDADE - análise de dados abertos por meio de fórmulas
 -
 https://github.com/pedroclealrocha/Fonte_inf_bd/blob/main/Atividade_Censo2022_Favelas.xlsx
+-
 
 <img width="773" height="759" alt="image" src="https://github.com/user-attachments/assets/c46f99ab-dc92-4d52-b6d1-e1ebff70ba5e" />
 
 INTRODUÇÃO AO POWER BI - Atividade análise de dados abertos
+-
+https://github.com/pedroclealrocha/Fonte_inf_bd/blob/main/Planilha%20Pedro.pbix
 -
 FERRAMENTAS USADAS
 
