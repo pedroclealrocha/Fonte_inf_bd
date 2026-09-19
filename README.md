@@ -1,5 +1,5 @@
 # Fonte_inf_bd
-Atividades Da Fatec Disciplina, Fonte de informações e Banco de Dados
+Atividades Da Fatec Disciplina, Fonte de informações e Banco de Dados.
 -
 
 
