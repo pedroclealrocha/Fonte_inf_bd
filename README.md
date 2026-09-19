@@ -21,4 +21,5 @@ FERRAMENTAS USADAS
 
 -Uso de fórmula DAX
 
-<img width="1631" height="805" alt="image" src="https://github.com/user-attachments/assets/99bb6159-5df7-4f80-8d32-28c1432d2102" />
+<img width="680" height="458" alt="image" src="https://github.com/user-attachments/assets/045524f8-0fee-42c4-8e9f-200cd05d827f" />
+
