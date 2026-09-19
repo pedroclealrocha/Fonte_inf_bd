@@ -25,6 +25,9 @@ https://github.com/pedroclealrocha/Fonte_inf_bd/blob/main/Planilha%20Pedro.pbix
 FERRAMENTAS USADAS
 
 -Uso de fórmula DAX
+-Visualizações
+-Transformação de dados
+-
 
 <img width="674" height="451" alt="image" src="https://github.com/user-attachments/assets/f54fc27b-e7dc-43cf-ad98-acd7ad2f06ad" />
 
