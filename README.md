@@ -31,4 +31,11 @@ FERRAMENTAS USADAS
 
 <img width="674" height="451" alt="image" src="https://github.com/user-attachments/assets/f54fc27b-e7dc-43cf-ad98-acd7ad2f06ad" />
 
+ATIVIDADE - ANÁLISE DE DADOS ABERTOS POWER BI.
+- 
+CENSO FAVELAS 2022
+-
 
+https://github.com/pedroclealrocha/Fonte_inf_bd/blob/main/Analisededadospowerbi.pbix
+
+<img width="619" height="529" alt="image" src="https://github.com/user-attachments/assets/48c8d5d3-9a35-4437-8ef3-193a433a50df" />
