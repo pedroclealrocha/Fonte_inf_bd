@@ -14,4 +14,8 @@ https://github.com/pedroclealrocha/Fonte_inf_bd/blob/main/Atividade_Censo2022_Fa
 <img width="773" height="759" alt="image" src="https://github.com/user-attachments/assets/c46f99ab-dc92-4d52-b6d1-e1ebff70ba5e" />
 
 INTRODUÇÃO AO POWER BI - Atividade análise de dados abertos
+-
+FERRAMENTAS USADAS
+Uso de fórmula DAX
+
 <img width="1631" height="805" alt="image" src="https://github.com/user-attachments/assets/99bb6159-5df7-4f80-8d32-28c1432d2102" />
