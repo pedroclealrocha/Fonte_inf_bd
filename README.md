@@ -16,7 +16,7 @@ ATIVIDADE - análise de dados abertos por meio de fórmulas
 https://github.com/pedroclealrocha/Fonte_inf_bd/blob/main/Atividade_Censo2022_Favelas.xlsx
 -
 
-<img width="773" height="759" alt="image" src="https://github.com/user-attachments/assets/c46f99ab-dc92-4d52-b6d1-e1ebff70ba5e" />
+<img width="406" height="423" alt="image" src="https://github.com/user-attachments/assets/a3be3086-93d5-4283-b20d-743123de3699" />
 
 INTRODUÇÃO AO POWER BI - Atividade análise de dados abertos
 -
