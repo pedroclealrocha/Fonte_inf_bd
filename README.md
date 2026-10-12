@@ -17,7 +17,6 @@ ATIVIDADE - análise de dados abertos por meio de fórmulas
 
 INTRODUÇÃO AO POWER BI - Atividade análise de dados abertos
 -
-https://github.com/pedroclealrocha/Fonte_inf_bd/blob/main/Planilha%20Pedro.pbix
 
 FERRAMENTAS USADAS
 
