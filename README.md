@@ -53,3 +53,31 @@ Editar interações, para a segmentação não filtrar a tabela de produtos.
 
 <img width="890" height="535" alt="image" src="https://github.com/user-attachments/assets/ea0f468a-494f-4490-a409-bf478bb97607" />
 
+# Regressão Linear: Temperatura vs. Faturamento
+
+## Passo a passo
+
+1. **Carregamento dos dados**
+   - Importação dos dados para um dataframe com as colunas `Temperature` e `Revenue`.
+2. **Treinamento do modelo**
+   - Criação de um modelo `LinearRegression`.
+   - Temperatura como variável explicativa (X) e faturamento como variável alvo (y).
+3. **Geração da linha de regressão**
+   - Criação de 100 pontos entre a menor e a maior temperatura com `np.linspace`.
+   - Previsão do faturamento para cada ponto com `modelo.predict`.
+4. **Criação do gráfico**
+   - Gráfico de dispersão dos dados reais com `sns.scatterplot`.
+   - Linha de regressão sobreposta com `plt.plot`.
+   - Título, rótulos dos eixos e legenda.
+  
+ ## 🛠️ Ferramentas utilizadas
+
+- **Python**
+- **Google Colab**
+- **pandas**: manipulação dos dados
+- **NumPy**: geração dos pontos da linha de regressão
+- **scikit-learn**: treino do modelo (`LinearRegression`)
+  
+<img width="1096" height="653" alt="image" src="https://github.com/user-attachments/assets/b20e013e-29ca-40fe-b7d1-793bf0c1662e" />
+
+
