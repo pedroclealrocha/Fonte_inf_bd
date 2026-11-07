@@ -80,4 +80,28 @@ Editar interações, para a segmentação não filtrar a tabela de produtos.
   
 <img width="1096" height="653" alt="image" src="https://github.com/user-attachments/assets/b20e013e-29ca-40fe-b7d1-793bf0c1662e" />
 
+# Análise de dados: expectativa de vida e notas de estudantes
+
+## Projeto com duas análises:
+
+1. **Dashboard de expectativa de vida (Power BI) com 3 visualizações.**
+2. **Regressão linear: horas de estudo × nota da prova, feita no Excel e no Google Colab, com comparação entre os dois modelos.**
+   
+# Ferramentas utilizadas
+1. **Ferramenta	Uso**
+2. **Power BI Desktop	Dashboard de expectativa de vida**
+3. **Microsoft Excel	Gráfico de dispersão e regressão linear**
+4. **Google Colab (Python)	Modelo de regressão linear***
+5. **Python: pandas, NumPy, matplotlib	Leitura, tratamento e gráficos**
+
+# Fontes de dados:
+**Expectativa de vida: Our World in Data (life-expectancy.csv).**
+**Notas de estudantes: Student-Result-Analysis (student_exam_scores.csv, 200 estudantes).**
+
+
+<img width="980" height="625" alt="image" src="https://github.com/user-attachments/assets/47a44110-505a-443f-80e1-abc17910d199" />
+<img width="826" height="742" alt="image" src="https://github.com/user-attachments/assets/a3cc420f-0670-46d6-826f-bfa5b2977a09" />
+<img width="810" height="521" alt="image" src="https://github.com/user-attachments/assets/7018706d-e224-406b-909d-7287a87a6f49" />
+
+
 
