@@ -104,4 +104,12 @@ Editar interações, para a segmentação não filtrar a tabela de produtos.
 <img width="810" height="521" alt="image" src="https://github.com/user-attachments/assets/7018706d-e224-406b-909d-7287a87a6f49" />
 
 
+Gráfico de dispersão resultante: Seade Nupcialidade
+-
+
+**idade média dos homens ao casar (x) e Idade média das mulheres ao casar(y)**
+
+<img width="868" height="631" alt="image" src="https://github.com/user-attachments/assets/8a39006e-15a6-42f9-b505-7ee75fddc2ba" />
+
+
 
