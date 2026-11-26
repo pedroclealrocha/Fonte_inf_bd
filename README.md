@@ -80,21 +80,21 @@ Preços de combustíveis no Brasil: análise no Power BI
   
 <img width="1096" height="653" alt="image" src="https://github.com/user-attachments/assets/b20e013e-29ca-40fe-b7d1-793bf0c1662e" />
 
-# Análise de dados: expectativa de vida e notas de estudantes
+*# Análise de dados: expectativa de vida e notas de estudantes*
 
-## Projeto com duas análises:
+*## Projeto com duas análises:*
 
-1. **Dashboard de expectativa de vida (Power BI) com 3 visualizações.**
-2. **Regressão linear: horas de estudo × nota da prova, feita no Excel e no Google Colab, com comparação entre os dois modelos.**
+*1. **Dashboard de expectativa de vida (Power BI) com 3 visualizações.***
+*2. **Regressão linear: horas de estudo × nota da prova, feita no Excel e no Google Colab, com comparação entre os dois modelos.***
    
 # Ferramentas utilizadas
-1. **Ferramenta	Uso**
-2. **Power BI Desktop	Dashboard de expectativa de vida**
-3. **Microsoft Excel	Gráfico de dispersão e regressão linear**
-4. **Google Colab (Python)	Modelo de regressão linear***
-5. **Python: pandas, NumPy, matplotlib	Leitura, tratamento e gráficos**
+*1. **Ferramenta	Uso***
+*2. **Power BI Desktop	Dashboard de expectativa de vida***
+*3. **Microsoft Excel	Gráfico de dispersão e regressão linear***
+*4. **Google Colab (Python)	Modelo de regressão linear***
+*5. **Python: pandas, NumPy, matplotlib	Leitura, tratamento e gráficos***
 
-# Fontes de dados:
+*# Fontes de dados:*
 **Expectativa de vida: Our World in Data (life-expectancy.csv).**
 **Notas de estudantes: Student-Result-Analysis (student_exam_scores.csv).**
 
@@ -118,10 +118,10 @@ Preços de combustíveis no Brasil: análise no Power BI
 
 *Resultados:*
 
-Inclinação (a): 1,0305
-Intercepto (b): -3,7899
-R²: 0,9382
-Equação: y = 1,0305·x − 3,7899
+*Inclinação (a): 1,0305*
+*Intercepto (b): -3,7899*
+*R²: 0,9382*
+*Equação: y = 1,0305·x − 3,7899*
 
 *Interpretação: o R² de 0,938 indica uma relação linear muito forte. A cada ano a mais na idade média dos homens ao casar, a idade média das mulheres aumenta cerca de 1,03 ano.*
 
