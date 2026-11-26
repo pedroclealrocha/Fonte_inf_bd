@@ -36,20 +36,20 @@ CENSO FAVELAS 2022
 
 Preços de combustíveis no Brasil: análise no Power BI
 -
-Relatório interativo em Power BI feito a partir de dados abertos do governo federal. O projeto cruza uma tabela fato de preços com uma tabela dimensão de produtos que traz uma figura para cada combustível, e mostra como o filtro de uma tabela se propaga para a outra.
+*Relatório interativo em Power BI feito a partir de dados abertos do governo federal. O projeto cruza uma tabela fato de preços com uma tabela dimensão de produtos que traz uma figura para cada combustível, e mostra como o filtro de uma tabela se propaga para a outra.*
 
-Técnicas utilizadas.:
+*Técnicas utilizadas.:*
 
 **DAX:**
-Medidas com AVERAGE, MIN, MAX e COUNTROWS (preço médio, mínimo, máximo e quantidade de coletas).<br>
-Coluna calculada com SWITCH para associar uma cor a cada produto.<br>
-Medida com SELECTEDVALUE para devolver a cor do produto selecionado.
+*Medidas com AVERAGE, MIN, MAX e COUNTROWS (preço médio, mínimo, máximo e quantidade de coletas).<br>*
+*Coluna calculada com SWITCH para associar uma cor a cada produto.<br>*
+*Medida com SELECTEDVALUE para devolver a cor do produto selecionado.*
 
 **Visualização e interatividade:**
-Segmentação de botão com imagens, em grade de 6 colunas e 1 linha.<br>
-Cartões, gráfico de colunas (preço médio por região), gráfico de linhas (preço médio por mês, com hierarquia de data reduzida a mês) e tabela com figura.<br>
-Formatação condicional por valor do campo (fx), para as cores dos visuais acompanharem a cor da figura.<br>
-Editar interações, para a segmentação não filtrar a tabela de produtos.
+*Segmentação de botão com imagens, em grade de 6 colunas e 1 linha.<br>*
+*Cartões, gráfico de colunas (preço médio por região), gráfico de linhas (preço médio por mês, com hierarquia de data reduzida a mês) e tabela com figura.<br>*
+*Formatação condicional por valor do campo (fx), para as cores dos visuais acompanharem a cor da figura.<br>*
+*Editar interações, para a segmentação não filtrar a tabela de produtos.*
 
 <img width="890" height="535" alt="image" src="https://github.com/user-attachments/assets/ea0f468a-494f-4490-a409-bf478bb97607" />
 
@@ -58,17 +58,17 @@ Editar interações, para a segmentação não filtrar a tabela de produtos.
 ## Passo a passo
 
 1. **Carregamento dos dados**
-   - Importação dos dados para um dataframe com as colunas `Temperature` e `Revenue`.
+   *- Importação dos dados para um dataframe com as colunas `Temperature` e `Revenue`.*
 2. **Treinamento do modelo**
-   - Criação de um modelo `LinearRegression`.
-   - Temperatura como variável explicativa (X) e faturamento como variável alvo (y).
+   *- Criação de um modelo `LinearRegression`.*
+   *- Temperatura como variável explicativa (X) e faturamento como variável alvo (y).*
 3. **Geração da linha de regressão**
-   - Criação de 100 pontos entre a menor e a maior temperatura
-   - Previsão do faturamento para cada ponto com `modelo.predict`.
+   - *Criação de 100 pontos entre a menor e a maior temperatura*
+   - *Previsão do faturamento para cada ponto com `modelo.predict`.*
 4. **Criação do gráfico**
-   - Gráfico de dispersão dos dados reais 
-   - Linha de regressão sobreposta
-   - Título, rótulos dos eixos e legenda.
+   - *Gráfico de dispersão dos dados reais* 
+   - *Linha de regressão sobreposta*
+   - *Título, rótulos dos eixos e legenda.*
   
  ## 🛠️ Ferramentas utilizadas
 
@@ -96,7 +96,7 @@ Editar interações, para a segmentação não filtrar a tabela de produtos.
 
 # Fontes de dados:
 **Expectativa de vida: Our World in Data (life-expectancy.csv).**
-**Notas de estudantes: Student-Result-Analysis (student_exam_scores.csv, 200 estudantes).**
+**Notas de estudantes: Student-Result-Analysis (student_exam_scores.csv).**
 
 
 <img width="980" height="625" alt="image" src="https://github.com/user-attachments/assets/47a44110-505a-443f-80e1-abc17910d199" />
@@ -104,12 +104,29 @@ Editar interações, para a segmentação não filtrar a tabela de produtos.
 <img width="810" height="521" alt="image" src="https://github.com/user-attachments/assets/7018706d-e224-406b-909d-7287a87a6f49" />
 
 
-Gráfico de dispersão resultante: Seade Nupcialidade
--
+**Regressão Linear: Idade ao casar (Seade – Nupcialidade)**
 
-**idade média dos homens ao casar (x) e Idade média das mulheres ao casar(y)**
+*Regressão linear simples com dados de nupcialidade da Fundação Seade, relacionando a idade média dos homens ao casar (x) com a idade média das mulheres ao casar (y).*
 
-<img width="868" height="631" alt="image" src="https://github.com/user-attachments/assets/8a39006e-15a6-42f9-b505-7ee75fddc2ba" />
+*Passo a passo:*
 
+*Carregamento dos dados de nupcialidade do Seade.*
+*Definição das variáveis: idade média dos homens (X) e das mulheres (y).*
+*Treinamento do modelo de regressão linear.*
+*Cálculo da inclinação, do intercepto e do R².*
+*Gráfico de dispersão com a reta de regressão.*
+
+*Resultados:*
+
+Inclinação (a): 1,0305
+Intercepto (b): -3,7899
+R²: 0,9382
+Equação: y = 1,0305·x − 3,7899
+
+*Interpretação: o R² de 0,938 indica uma relação linear muito forte. A cada ano a mais na idade média dos homens ao casar, a idade média das mulheres aumenta cerca de 1,03 ano.*
+
+*Fonte de dados: Fundação Seade – Nupcialidade.*
+
+*Ferramentas: Python, Google Colab, pandas, NumPy, scikit-learn, matplotlib.*
 
 
