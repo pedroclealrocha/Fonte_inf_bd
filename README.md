@@ -63,11 +63,11 @@ Editar interações, para a segmentação não filtrar a tabela de produtos.
    - Criação de um modelo `LinearRegression`.
    - Temperatura como variável explicativa (X) e faturamento como variável alvo (y).
 3. **Geração da linha de regressão**
-   - Criação de 100 pontos entre a menor e a maior temperatura com `np.linspace`.
+   - Criação de 100 pontos entre a menor e a maior temperatura
    - Previsão do faturamento para cada ponto com `modelo.predict`.
 4. **Criação do gráfico**
-   - Gráfico de dispersão dos dados reais com `sns.scatterplot`.
-   - Linha de regressão sobreposta com `plt.plot`.
+   - Gráfico de dispersão dos dados reais 
+   - Linha de regressão sobreposta
    - Título, rótulos dos eixos e legenda.
   
  ## 🛠️ Ferramentas utilizadas
