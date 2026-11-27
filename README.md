@@ -34,7 +34,7 @@ CENSO FAVELAS 2022
 
 <img width="619" height="529" alt="image" src="https://github.com/user-attachments/assets/48c8d5d3-9a35-4437-8ef3-193a433a50df" />
 
-Preços de combustíveis no Brasil: análise no Power BI
+*Preços de combustíveis no Brasil: análise no Power BI*
 -
 *Relatório interativo em Power BI feito a partir de dados abertos do governo federal. O projeto cruza uma tabela fato de preços com uma tabela dimensão de produtos que traz uma figura para cada combustível, e mostra como o filtro de uma tabela se propaga para a outra.*
 
@@ -53,24 +53,24 @@ Preços de combustíveis no Brasil: análise no Power BI
 
 <img width="890" height="535" alt="image" src="https://github.com/user-attachments/assets/ea0f468a-494f-4490-a409-bf478bb97607" />
 
-# Regressão Linear: Temperatura vs. Faturamento
+*# Regressão Linear: Temperatura vs. Faturamento*
 
-## Passo a passo
+*## Passo a passo*
 
-1. **Carregamento dos dados**
+*1. **Carregamento dos dados***
    *- Importação dos dados para um dataframe com as colunas `Temperature` e `Revenue`.*
-2. **Treinamento do modelo**
+*2. **Treinamento do modelo***
    *- Criação de um modelo `LinearRegression`.*
    *- Temperatura como variável explicativa (X) e faturamento como variável alvo (y).*
-3. **Geração da linha de regressão**
-   - *Criação de 100 pontos entre a menor e a maior temperatura*
-   - *Previsão do faturamento para cada ponto com `modelo.predict`.*
-4. **Criação do gráfico**
-   - *Gráfico de dispersão dos dados reais* 
+*3. **Geração da linha de regressão***
+   *- *Criação de 100 pontos entre a menor e a maior temperatura*
+   *- Previsão do faturamento para cada ponto com `modelo.predict`.*
+*4. **Criação do gráfico***
+   *- Gráfico de dispersão dos dados reais* 
    - *Linha de regressão sobreposta*
    - *Título, rótulos dos eixos e legenda.*
   
- ## 🛠️ Ferramentas utilizadas
+ *## 🛠️ Ferramentas utilizadas*
 
 - **Python**
 - **Google Colab**
