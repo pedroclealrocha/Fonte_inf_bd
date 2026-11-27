@@ -86,6 +86,9 @@ CENSO FAVELAS 2022
 
 *1. **Dashboard de expectativa de vida (Power BI) com 3 visualizações.***
 *2. **Regressão linear: horas de estudo × nota da prova, feita no Excel e no Google Colab, com comparação entre os dois modelos.***
+
+<img width="826" height="742" alt="image" src="https://github.com/user-attachments/assets/a3cc420f-0670-46d6-826f-bfa5b2977a09" />
+<img width="810" height="521" alt="image" src="https://github.com/user-attachments/assets/7018706d-e224-406b-909d-7287a87a6f49" />
    
 # Ferramentas utilizadas
 *1. **Ferramenta	Uso***
@@ -100,8 +103,6 @@ CENSO FAVELAS 2022
 
 
 <img width="980" height="625" alt="image" src="https://github.com/user-attachments/assets/47a44110-505a-443f-80e1-abc17910d199" />
-<img width="826" height="742" alt="image" src="https://github.com/user-attachments/assets/a3cc420f-0670-46d6-826f-bfa5b2977a09" />
-<img width="810" height="521" alt="image" src="https://github.com/user-attachments/assets/7018706d-e224-406b-909d-7287a87a6f49" />
 
 
 **Regressão Linear: Idade ao casar (Seade – Nupcialidade)**
